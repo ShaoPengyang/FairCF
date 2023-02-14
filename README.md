@@ -1,5 +1,13 @@
-# FairCF
 codes for ``FairCF: Fairness-aware Collaborative Filtering''<br>
-[This paper has been accepted by Science China Information Science](https://www.sciengine.com/SCIS/doi/10.1007/s11432-020-3404-y;JSESSIONID=231d1956-4bde-40b5-9a2a-698e71265852).
+@article{shao2022faircf,
+  title={FairCF: fairness-aware collaborative filtering},
+  author={Shao, Pengyang and Wu, Le and Chen, Lei and Zhang, Kun and Wang, Meng},
+  journal={Science China Information Sciences},
+  volume={65},
+  number={12},
+  pages={1--15},
+  year={2022},
+  publisher={Springer}
+}
 
-Pre-processed Lastfm Dataset used in the paper: [link] (). 
+We also provide the pre-processed Lastfm-360K Dataset used in the paper: [link](https://www.jianguoyun.com/p/DVEqyRkQuKzlChiNy_UEIAA). 
