@@ -15,3 +15,4 @@ If you want to use the codes, please cite
 
 Please re-train pre-trained modules in codes on your own for Lastfm-360K. 
 We also provide the pre-processed Lastfm-360K Dataset used in the paper: [link](https://www.jianguoyun.com/p/DVEqyRkQuKzlChiNy_UEIAA). 
+(password : bfi1ca)
